@@ -1,5 +1,5 @@
 University of Glasgow computing science student.
-Predominantly interested in computer networking, mycology, and cloud computing.
+Predominantly interested in computer networking, mycology, cloud computing, and task automation.
 Which is reflected in the projects I tend to be involved in.
 
 <!---
